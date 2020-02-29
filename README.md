@@ -4,7 +4,7 @@
 
 ## פיצה
 
-1. [בצק ללא לישה](recipes/pizza/no-knitting-daugh.md)
+1. [בצק ללא לישה](recipes/pizza/no-kneading-dough.md)
 
 ## רוטב
 
